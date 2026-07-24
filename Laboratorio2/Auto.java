@@ -1,5 +1,3 @@
-
-
 public class Auto {
     private String marca;
     private int velocidad;

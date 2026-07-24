@@ -81,9 +81,9 @@ public class Nivel1{
         //#14
         System.out.println("**********Ejercicio #14**********");
         int var3 = 45;
-        System.out.println("Valor acutal variable:"+String.valueOf(var3));
+        System.out.println("Valor actual variable:"+String.valueOf(var3));
         var3 = 78;
-        System.out.println("Valor acutal variable:"+String.valueOf(var3));
+        System.out.println("Valor actual variable:"+String.valueOf(var3));
 
         //#15
         System.out.println("**********Ejercicio #15**********");
